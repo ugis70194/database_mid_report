@@ -1,5 +1,5 @@
 CREATE TABLE user_data(
-  user_id VARCHAR(17) NOT NULL,
+  user_id VARCHAR(17),
   user_name VARCHAR(256) NOT NULL,
   tel VARCHAR(16) NOT NULL,
   postal_number VARCHAR(16) NOT NULL,

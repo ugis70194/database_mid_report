@@ -1,5 +1,5 @@
 CREATE TABLE main_dish(
-  item_name VARCHAR(256) NOT NULL,
+  item_name VARCHAR(256),
   price DECIMAL(16, 2) NOT NULL,
   PRIMARY KEY(item_name)
 );
