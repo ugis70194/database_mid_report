@@ -1,0 +1,15 @@
+{
+  "name": "MySQL 8.2.0 Oracle Linux",
+  "service": "mysql",
+  "dockerComposeFile": "docker-compose.yml",
+  "workspaceFolder": "/sql",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+          "oderwat.indent-rainbow",
+          "VisualStudioExptTeam.vscodeintellicode",
+          "VisualStudioExptTeam.intellicode-api-usage-examples"
+        ]
+    }
+  }
+}
