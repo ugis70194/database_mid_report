@@ -6,6 +6,5 @@ CREATE TABLE main_dish(
 
 INSERT INTO main_dish VALUES
   ('鯖の塩焼き', 600),
-  ('鮭の塩焼き', 550),
   ('豚の生姜焼き', 500),
   ('煮込みハンバーグ', 600);
